@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
+### DATE: 22.11.2023
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -24,15 +24,14 @@
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+![image](https://github.com/Raji1009/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/89059861/18eb7505-84a0-4671-b7b2-fae344f0e204)
+![image](https://github.com/Raji1009/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/89059861/b9622e2c-342f-45b5-a24e-b5f3e61e2ae0)
 
-### Name:
-### Register Number:
+
+### Name: Rajalakshmi R
+### Register Number: 23013958
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
